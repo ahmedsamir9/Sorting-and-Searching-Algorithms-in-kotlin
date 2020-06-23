@@ -3,7 +3,7 @@
 ## Bubble sort 
  -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/out/production/sorting%20code/SortTypes/BubbleSort.class) 
  -  [video](https://www.youtube.com/watch?v=xli_FI7CuzA) 
- ## Selection sort 
+ ## Insertion sort
  -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/out/production/sorting%20code/SortTypes/InsertionSort.class) 
  -  [video](https://www.youtube.com/watch?v=JU767SDMDvA) 
  ## Selection sort 
