@@ -4,21 +4,21 @@
  -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/src/SortTypes/BubbleSort.kt) 
  -  [video](https://www.youtube.com/watch?v=xli_FI7CuzA) 
  ## Insertion sort
- -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/out/production/sorting%20code/SortTypes/InsertionSort.class) 
+ -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/src/SortTypes/InsertionSort.kt) 
  -  [video](https://www.youtube.com/watch?v=JU767SDMDvA) 
  ## Selection sort 
- -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/out/production/sorting%20code/SortTypes/SelectionSort.class) 
+ -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/src/SortTypes/SelectionSort.kt) 
  -  [video](https://www.youtube.com/watch?v=g-PGLbMth_g) 
 
  ## Merge sort 
- -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/out/production/sorting%20code/SortTypes/MergeSort.class) 
+ -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/src/SortTypes/MergeSort.kt) 
  -  [video](https://www.youtube.com/watch?v=4VqmGXwpLqc) 
  ## Quick sort 
- -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/out/production/sorting%20code/SortTypes/QuickSort.class) 
+ -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/src/SortTypes/QuickSort.kt) 
  -  [video](https://www.youtube.com/watch?v=g-PGLbMth_g) 
  ## Count sort 
- -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/out/production/sorting%20code/SortTypes/CountSort.class) 
+ -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/src/SortTypes/CountSort.kt) 
  -  [video](https://www.youtube.com/watch?v=Hoixgm4-P4M) 
  ## Bucket sort 
- -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/out/production/sorting%20code/SortTypes/BucketSort.class) 
+ -  [Code](https://github.com/ahmedsamir9/SortingAlgorithms-in-kotlin/blob/master/src/SortTypes/BucketSort.kt) 
  -  [video](https://www.youtube.com/watch?v=VuXbEb5ywrU) 
