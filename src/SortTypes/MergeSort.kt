@@ -4,7 +4,7 @@ import SortAlgorithm
 
 class MergeSort :SortAlgorithm {
     override fun sort(list: Array<Int>) {
-        //stoping condition
+        //stopping condition
         if (list.size < 2)return
         //divide
         val middle :Int= list.size/2
