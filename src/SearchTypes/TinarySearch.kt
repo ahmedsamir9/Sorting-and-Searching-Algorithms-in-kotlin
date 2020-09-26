@@ -2,7 +2,7 @@ package SearchTypes
 
 import SearchingAlgorithm
 
-class TinarySearch:SearchingAlgorithm {
+class TernarySearch:SearchingAlgorithm {
     override fun search(list: List<Int>, target: Int): Boolean {
         var newList = list.sorted()
         newList.forEach {
@@ -10,7 +10,7 @@ class TinarySearch:SearchingAlgorithm {
         }
         return recTinarySearch(newList,target,0,list.size-1)
     }
-    fun recTinarySearch(list: List<Int>, target: Int, left:Int, right:Int):Boolean{
+    fun recTernarySearch(list: List<Int>, target: Int, left:Int, right:Int):Boolean{
         if (left>right)return false
         val partitionSize = (right - left)/3
         val mid1 = left+partitionSize
